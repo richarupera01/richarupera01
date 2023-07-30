@@ -1,9 +1,11 @@
-<img align="center"  width="800" src="https://octopusbi.com/wp-content/uploads/2021/03/OctopusBI-DataVisualizationBlog.jpg">
+<p align="center">
+<img width="600" src="https://octopusbi.com/wp-content/uploads/2021/03/OctopusBI-DataVisualizationBlog.jpg">
+</p>
 
 <h1 align="center">Hello there. I am Richa. Welcome to my GitHub!</h1>
 <h3 align="center">An aspiring Data Analyst from India.</h3>
 
-<img align="right" alt="coding" width="500" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019072201A.gif">
+<img align="right" alt="coding" width="550" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019072201A.gif">
 
 - I’m currently learning **Python and SQL.**
 
