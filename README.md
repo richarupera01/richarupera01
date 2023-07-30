@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hello there. I am Richa. Welcome to my GitHub!</h1>
 <h3 align="center">An aspiring Data Analyst from India.</h3>
 
