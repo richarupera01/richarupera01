@@ -1,6 +1,8 @@
 <h1 align="center">Hello there. I am Richa. Welcome to my GitHub!</h1>
 <h3 align="center">An aspiring Data Analyst from India.</h3>
 
+<img align="right" alt="coding" width="600" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019072201A.gif">
+
 - I’m currently learning **Python and SQL.**
 
 - I have a strong grasp of **Data visualization and data story telling.**
