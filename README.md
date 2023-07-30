@@ -1,4 +1,4 @@
-![logo]()
+<img align="center"  width="800" src="https://octopusbi.com/wp-content/uploads/2021/03/OctopusBI-DataVisualizationBlog.jpg">
 
 <h1 align="center">Hello there. I am Richa. Welcome to my GitHub!</h1>
 <h3 align="center">An aspiring Data Analyst from India.</h3>
